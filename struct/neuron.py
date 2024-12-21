@@ -2,7 +2,7 @@ import gradio as gr
 import tensorflow as tf
 import numpy as np
 import pandas as pd
-from datasets import load_dataset # wtf?
+from datasets import load_dataset
 from sklearn.model_selection import train_test_split
 
 # Загрузка датасета 'sfd_housing_prices_november_2024'
