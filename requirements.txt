@@ -1,0 +1,5 @@
+gradio
+tensorflow==2.17.1
+numpy
+pandas
+datasets
